@@ -9,4 +9,6 @@ https://paper.seebug.org/821/
 
 https://www.youtube.com/watch?v=QtLDDN0Duko
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=QtLDDN0Duko)
+[linkname](https://www.youtube.com/watch?v=QtLDDN0Duko)
+
+
